@@ -1,0 +1,15 @@
+{
+  "name": "wls-auth-client",
+  "description": "",
+  "version": "1.0.0",
+  "author": "giandonatoinverso",
+  "license": "MIT",
+  "main": "index.php",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:giandonatoinverso/wls-auth-client.git"
+  }
+}
