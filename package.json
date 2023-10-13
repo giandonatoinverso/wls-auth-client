@@ -1,7 +1,7 @@
 {
   "name": "wls-auth-client",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "giandonatoinverso",
   "license": "MIT",
   "main": "index.php",
