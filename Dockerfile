@@ -10,4 +10,4 @@ COPY ./src ./
 RUN chmod 755 *;
 EXPOSE 8080
 
-CMD ["php", "-S", "0.0.0.0:80"]
+CMD ["php", "-S", "0.0.0.0:8080"]
