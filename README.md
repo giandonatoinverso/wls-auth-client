@@ -7,12 +7,5 @@ and which returns the authorization code and username of the user who authentica
 You can use the example docker compose file that creates the complete stack
 
 ```
-git clone <this_repository>
 docker compose build --no-cache && docker compose -p wslStack up -d
-```
-
-# Development
-
-```
-task publish-docker
 ```
